@@ -1,3 +1,5 @@
+<div style="background-color: white; padding: 20px;">
+  
 # Oficina de PyGMT
 
 <p align="center">
@@ -29,3 +31,4 @@ Espere o sistema reiniciar e depois:
 ```
 
 Se você tiver alguma dúvida ou quiser fazer algum comentário aqui, use o `pull request` ou mande um email para [andrebelem@id.uff.br](mailto:andrebelem@id.uff.br).
+</div>
