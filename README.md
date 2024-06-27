@@ -1,4 +1,9 @@
-# Oficina_PyGMT
+# Oficina de PyGMT
+
+<p align="center">
+  <img src="Datasets/3D_sample.png" alt="Descrição da Imagem" width="400">
+</p>
+
 
 Este é o material da Oficina INTERNA: Uma introdução à exploração de dados geoespaciais com PyGMT, ministrado pelo oceanógrafo [André Belém](https://github.com/andrebelem) para o Seminário Interdisciplinar de Sustentabilidade [SIS2024](https://www.even3.com.br/sis-2024/), mas disponibilizado aqui de forma pública para outros interessados em aprender um pouco mais sobre o PyGMT além de outras técnicas de análise de dados geoespaciais. O curso foi baseado exclusivamente no [Google COLAB](https://colab.google/) e em notebooks de Python.
 
