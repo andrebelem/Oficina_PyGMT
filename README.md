@@ -8,7 +8,7 @@
 
 Este é o material da Oficina INTERNA: Uma introdução à exploração de dados geoespaciais com PyGMT, ministrado pelo oceanógrafo [André Belém](https://github.com/andrebelem) para o Seminário Interdisciplinar de Sustentabilidade [SIS2024](https://www.even3.com.br/sis-2024/), mas disponibilizado aqui de forma pública para outros interessados em aprender um pouco mais sobre o PyGMT além de outras técnicas de análise de dados geoespaciais. O curso foi baseado exclusivamente no [Google COLAB](https://colab.google/) e em notebooks de Python. Esse repositório está **em construção constante** ! Então, se quiser seguir o que acontece aqui, basta clicar sobre o botão "watch".
 
-Esse material foi adaptado (e traduzido) do curso ["Criando mapas bonitos com o PyGMT"](https://www.generic-mapping-tools.org/egu22pygmt/intro.html) ministrado durante o encontro da [European Geophysical Union General Assembly 2022](https://www.egu22.eu/).
+Esse material foi adaptado (e traduzido) do curso ["Criando mapas bonitos com o PyGMT"](https://www.generic-mapping-tools.org/egu22pygmt/intro.html) ministrado durante o encontro da [European Geophysical Union General Assembly 2022](https://www.egu22.eu/). Se você gostou e se tornar um *PyGMTniano*, e começar a usar no seu trabalho, pedimos gentilmente que você cite o uso do PyGMT usando o seguinte [DOI](https://doi.org/10.5281/zenodo.11062720). Você pode vre mais detalhes sobre isso na [página principal do PyGMT](https://www.pygmt.org/dev/index.html).
 
 **Gravação**
 (em breve)
@@ -32,5 +32,7 @@ Espere o sistema reiniciar e depois:
 ## Ideias e links
 
 Veja o documento [aqui]([Datasets/](https://github.com/andrebelem/Oficina_PyGMT/blob/main/Links%20Ideias%20Dados%20e%20outros%20materiais.md)) para mais algumas ideias interessantes.<br>
-Se você tiver alguma dúvida ou quiser fazer algum comentário aqui, use o `pull request` ou mande um email para [andrebelem@id.uff.br](mailto:andrebelem@id.uff.br).
+Se você tiver alguma dúvida ou quiser fazer algum comentário aqui, use o `pull request` ou mande um email para [andrebelem@id.uff.br](mailto:andrebelem@id.uff.br). Você pode ainda acessar o [Fórum do PyGMT](https://forum.generic-mapping-tools.org/) que é o principal hub para troca de informações e ajuda com os scripts.
+
+Espero que você tenha uma excelente experiência com o Python e com o PyGMT ! ❤️
 
