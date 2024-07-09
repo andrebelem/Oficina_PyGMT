@@ -1,5 +1,5 @@
   
-# Oficina de PyGMT
+# Oficina de PyGMT [![DOI](https://zenodo.org/badge/821008814.svg)](https://zenodo.org/doi/10.5281/zenodo.12701582)
 
 <p align="center">
   <img src="Datasets/3D_sample.png" alt="Descrição da Imagem" width="400">
