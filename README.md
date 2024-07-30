@@ -11,7 +11,7 @@ Este é o material da Oficina INTERNA: Uma introdução à exploração de dados
 Esse material foi adaptado (e traduzido) do curso ["Criando mapas bonitos com o PyGMT"](https://www.generic-mapping-tools.org/egu22pygmt/intro.html) ministrado durante o encontro da [European Geophysical Union General Assembly 2022](https://www.egu22.eu/). Se você gostou e quiser se tornar um *PyGMTniano*, e começar a usar o `PyGMT`no seu trabalho, pedimos gentilmente que você cite o uso do PyGMT usando o seguinte [DOI](https://doi.org/10.5281/zenodo.11062720). Você pode obter mais detalhes sobre isso na [página principal do PyGMT](https://www.pygmt.org/dev/index.html). Também recomendo a leitura do excepcional trabalho de Paul Wessel ([In Memoriam](https://www.soest.hawaii.edu/soestwp/announce/news/in-memoriam-pal-wessel/)) [The Origins of the Generic Mapping Tools: From Table Tennis to Geoscience](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023CN000231). 
 
 ## Gravação
-(em breve)
+Assista pelo link [https://www.youtube.com/watch?v=ttrYQwFj7MA](https://www.youtube.com/watch?v=ttrYQwFj7MA)
 
 ## Como usar todo esse material
 
